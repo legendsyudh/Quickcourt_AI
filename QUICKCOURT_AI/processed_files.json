@@ -1,0 +1,12 @@
+{
+    "BNS.pdf": {
+        "document_id": "bns",
+        "pdf_hash": "ff92dcc72778944011807644b6033b1140ddbe6d7e9f82ac32fd419dae03aa86",
+        "chunks": 1054
+    },
+    "IPC.pdf": {
+        "document_id": "ipc",
+        "pdf_hash": "c58676a3253a5454b62e4b4463ae811cb6efbb5ae0768fe5e1cf0d4db4da3055",
+        "chunks": 401
+    }
+}
